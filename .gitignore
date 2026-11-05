@@ -1,0 +1,13 @@
+# Compiled Java
+*.class
+out/
+bin/
+
+# Local libraries (download the MySQL connector yourself, see README)
+lib/*.jar
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.iml
